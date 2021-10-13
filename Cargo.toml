@@ -3,6 +3,8 @@ name = "best_macros"
 version = "0.1.0"
 edition = "2018"
 license-file = "LICENSE.txt"
+description = "This crate was created for optimize  coding in RUST"
+readme = "README.md"
 
 [lib]
 proc-macro = true
