@@ -2,6 +2,7 @@
 name = "best_macros"
 version = "0.1.0"
 edition = "2018"
+license-file = "LICENSE.txt"
 
 [lib]
 proc-macro = true
