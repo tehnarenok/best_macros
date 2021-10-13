@@ -2,7 +2,7 @@
 name = "best_macros"
 version = "0.1.0"
 edition = "2018"
-license-file = "LICENSE.txt"
+license = "MIT"
 description = "This crate was created for optimize  coding in RUST"
 readme = "README.md"
 repository = "https://github.com/tehnarenok/best_macros/"
