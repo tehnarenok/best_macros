@@ -5,6 +5,7 @@ edition = "2018"
 license-file = "LICENSE.txt"
 description = "This crate was created for optimize  coding in RUST"
 readme = "README.md"
+repository = "https://github.com/tehnarenok/best_macros/"
 
 [lib]
 proc-macro = true
